@@ -1,7 +1,7 @@
 ### Awesome-OCR-Multimodal-Large-Language-Models
 
 |Title|Date|Institution|Publication|Code|Paper|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | **[OCR-free Document Understanding Transformer](https://arxiv.org/abs/2111.15664)**                                                               | 2021.11 | NAVER                                             | ECCV 2022           | [Github](https://github.com/clovaai/donut)                         | [Paper](https://arxiv.org/abs/2111.15664)     |
 | **[On the Hidden Mystery of OCR in Large Multimodal Models](https://arxiv.org/abs/2305.07895)**                                                   | 2023.05 | Huazhong University of Science and Technology     |                     | [Github](https://github.com/Yuliang-Liu/MultimodalOCR)             | [Paper](https://arxiv.org/abs/2305.07895)     |
 | **[mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding](https://arxiv.org/abs/2307.02499)**                      | 2023.07 | Alibaba Group                                     |                     | [Github](https://github.com/X-PLUG/mPLUG-DocOwl)                   | [Paper](https://arxiv.org/abs/2307.02499)     |
